@@ -19,7 +19,7 @@ This repository contains three Google Colab notebooks demonstrating key NLP task
 - Debug trace includes:
   - Token IDs and attention masks
   - Raw logits and softmax confidence
-- 🔗 **Video Walkthrough**: [Watch here](https://colab.research.google.com/drive/1lKCkH4wXhfDL5K97_DaFO9Ho1E60vp3v?usp=sharing)
+- 🔗 **Colab**: [Watch here](https://colab.research.google.com/drive/1lKCkH4wXhfDL5K97_DaFO9Ho1E60vp3v?usp=sharing)
 
 ---
 
@@ -27,7 +27,7 @@ This repository contains three Google Colab notebooks demonstrating key NLP task
 - Fine-tunes `bert-base-uncased` on IMDb with Hugging Face `datasets`.
 - Evaluated using accuracy on test set.
 - Predicts on custom sentences post fine-tuning.
-- 🔗 **Video Walkthrough**: [Watch here](https://colab.research.google.com/drive/1iN7jsQlt4KxbFy3CDGxr-cXC8SU4ZxfL?usp=sharing)
+- 🔗 **Colab**: [Watch here](https://colab.research.google.com/drive/1iN7jsQlt4KxbFy3CDGxr-cXC8SU4ZxfL?usp=sharing)
 
 ---
 
@@ -38,7 +38,7 @@ This repository contains three Google Colab notebooks demonstrating key NLP task
   - Feed-forward network
 - Trained on IMDb dataset (token IDs) using `tf.keras`.
 - Includes plots for accuracy and loss + custom input prediction.
-- 🔗 **Video Walkthrough**: [Watch here](https://colab.research.google.com/drive/1gWdG3vo1cOqlSt6agLkhJsImVwnZNo3d?usp=sharing)
+- 🔗 **Colab**: [Watch here](https://colab.research.google.com/drive/1gWdG3vo1cOqlSt6agLkhJsImVwnZNo3d?usp=sharing)
 
 ---
 
