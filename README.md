@@ -65,7 +65,7 @@ predict_sentiment("I loved the characters and story!")
 
 Each notebook has a demo walkthrough (with debug traces):
 
-* 📼 [Walkthrough](#)
+* 📼 [Walkthrough](https://drive.google.com/file/d/1ke657rl34Vx1QhSOQDzNeUfPmPgTP_uh/view?usp=sharing)
 
 ---
 
